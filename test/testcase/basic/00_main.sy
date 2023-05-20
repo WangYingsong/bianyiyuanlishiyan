@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+int main(){
+    return 3;
+=======
+int main(){
+    return 3;
+>>>>>>> ffd4636 (58/58 拿下)
+}

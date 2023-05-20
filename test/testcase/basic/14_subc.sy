@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+//test subc
+int main(){
+    int a;
+    a = 10;
+    return a - 2;
+=======
+//test subc
+int main(){
+    int a;
+    a = 10;
+    return a - 2;
+>>>>>>> ffd4636 (58/58 拿下)
+}

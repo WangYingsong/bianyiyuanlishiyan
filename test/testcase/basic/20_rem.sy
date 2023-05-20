@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+//test rem
+int main(){
+    int a;
+    a = 10;
+    return a % 3;
+=======
+//test rem
+int main(){
+    int a;
+    a = 10;
+    return a % 3;
+>>>>>>> ffd4636 (58/58 拿下)
+}

@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+//test mulc
+const int a = 5;
+int main(){
+    return a * 5;
+=======
+//test mulc
+const int a = 5;
+int main(){
+    return a * 5;
+>>>>>>> ffd4636 (58/58 拿下)
+}
