@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+int main() {
+  int a = 10;
+  ;
+  return a * 2 + 1;
+}
+=======
+int main() {
+  int a = 10;
+  ;
+  return a * 2 + 1;
+}
+>>>>>>> ffd4636 (58/58 拿下)

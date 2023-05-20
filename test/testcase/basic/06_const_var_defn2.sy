@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+//test const gloal var define
+const int a = 10, b = 5;
+
+int main(){
+    return b;
+=======
+//test const gloal var define
+const int a = 10, b = 5;
+
+int main(){
+    return b;
+>>>>>>> ffd4636 (58/58 拿下)
+}
